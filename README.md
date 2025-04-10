@@ -1,6 +1,6 @@
 # Atlas Lab: Cannabis Heterosis Predictor
 
-![Atlas Lab Logo](logo.png)
+!Atlas Lab Logo.png
 
 Welcome to the **Atlas Lab Cannabis Heterosis Predictor** — a user-friendly Streamlit application that helps you analyze the potential heterosis (hybrid vigor) between two cannabis strains using their genome sequencing data.
 
