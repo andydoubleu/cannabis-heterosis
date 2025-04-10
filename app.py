@@ -4,6 +4,9 @@ import matplotlib.pyplot as plt
 import io
 from datetime import datetime
 
+# === App Setup ===
+st.set_page_config(page_title="Atlas Lab | Cannabis Heterosis Predictor", layout="wide")
+
 # === Atlas Lab Custom Styling ===
 custom_css = """
 <style>
@@ -54,9 +57,6 @@ button[kind="primary"] {
 </style>
 """
 st.markdown(custom_css, unsafe_allow_html=True)
-
-# === App Setup ===
-st.set_page_config(page_title="Atlas Lab | Cannabis Heterosis Predictor", layout="wide")
 
 # Atlas Lab logo
 st.image("https://raw.githubusercontent.com/andydoubleu/atlas-lab-assets/main/logo.png", width=120)
