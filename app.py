@@ -61,7 +61,7 @@ st.markdown(custom_css, unsafe_allow_html=True)
 # Atlas Lab logo
 st.image("atlas seed logo.png", width=120)
 
-st.title("🌿 Atlas Lab: Cannabis Heterosis Predictor")st.markdown("""
+st.title("🌿 Atlas Lab: Cannabis Heterosis Predictor") st.markdown("""
 Welcome to **Atlas Lab**!
 
 Upload genome CSV files for two parent strains to predict the potential level of heterosis in their progeny.
