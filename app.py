@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Cannabis Hybrid Vigor Predictor", layout="wide")
 
-st.title("🌱 Cannabis Hybrid Vigor (Heterosis) Predictor")
+st.title("🌱 Cannabis Heterosis Predictor")
 st.markdown("""
 Upload genome CSV files for two parent strains to predict the potential level of hybrid vigor in their progeny.
 
