@@ -59,7 +59,7 @@ button[kind="primary"] {
 st.markdown(custom_css, unsafe_allow_html=True)
 
 # Atlas Lab logo
-st.image("https://raw.githubusercontent.com/andydoubleu/atlas-lab-assets/main/logo.png", width=120)
+st.image("atlas seed logo.png", width=120)
 
 st.title("🔍 Atlas Lab: Cannabis Heterosis Predictor")
 st.markdown("""
